@@ -1,3 +1,1 @@
-||adblock-tester.com/banners/*^
-||123^
-||dxy^
+||adblock-tester.com^
