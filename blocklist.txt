@@ -1,4 +1,3 @@
-||adblock-tester.com^
 ||browser.sentry-cdn.com^
 ||js.sentry-cdn.com^
 ||www.googletagmanager.com^
