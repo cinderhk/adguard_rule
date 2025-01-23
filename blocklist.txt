@@ -1,2 +1,1 @@
-||adblock-tester.com/banners^
-
+||adblock-tester.com^
