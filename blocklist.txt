@@ -1,4 +1,4 @@
 ||*ads*^
 ||*adserver*^
 ||*track*^
-||adblock-tester.com/banners/pr_advertising_ads_banner.gif
+||adblock-tester.com/banners^
