@@ -1,4 +1,2 @@
-||*ads*^
-||*adserver*^
-||*track*^
 ||adblock-tester.com/banners^
+
