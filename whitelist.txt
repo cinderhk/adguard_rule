@@ -27,5 +27,5 @@
 /.*\.discomax\.com/
 /.*\.app-analytics-services\.com/
 /.*\.whatsapp\.com/
-@@||whatsapp.com
+@@||whatsapp.com^
 
