@@ -26,4 +26,5 @@
 /.*\.wbd-api\.arkoselabs\.com/
 /.*\.discomax\.com/
 /.*\.app-analytics-services\.com/
+/.*\.whatsapp\.com/
 
