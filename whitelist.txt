@@ -28,4 +28,6 @@
 /.*\.app-analytics-services\.com/
 /.*\.whatsapp\.com/
 @@||whatsapp.com^
+/.*\.ipinfo\.io/
+@@||ipinfo.io^
 
