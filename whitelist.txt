@@ -5,19 +5,19 @@
 /.*\.netflix\.com/
 /.*\.googleapis\.com/
 /.*\.youtube\.com/
-@@||googleads.g.doubleclick.net^
+@@||googleads.g.doubleclick.net^$important
 /.*\.registerdisney\.go\.com/
-@@||disney.demdex.net^
-@@||disney.my.sentry.io^
+@@||disney.demdex.net^$important
+@@||disney.my.sentry.io^$important
 /.*\.edge\.bamgrid\.com/
 /.*\.disney\.com/
 /.*\.disneyplus\.com/
 /.*\.thewaltdisneycompany\.com/
 /.*\.disney-plus\.net/
-@@||images-na.ssl-images-amazon.com^
-@@||c.media-amazon.com^
-@@||static.siege-amazon.com^
-@@||media.amazon.map.fastly.net^
+@@||images-na.ssl-images-amazon.com^$important
+@@||c.media-amazon.com^$important
+@@||static.siege-amazon.com^$important
+@@||media.amazon.map.fastly.net^$important
 /.*\.media-amazon\.com/
 /.*\.amazon\.com/
 /.*\.amazonvideo\.com/
@@ -27,7 +27,7 @@
 /.*\.discomax\.com/
 /.*\.app-analytics-services\.com/
 /.*\.whatsapp\.com/
-@@||whatsapp.com^
+@@||whatsapp.com^$important
 /.*\.ipinfo\.io/
-@@||ipinfo.io^
+@@||ipinfo.io^$important
 
