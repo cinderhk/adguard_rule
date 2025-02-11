@@ -1,33 +1,50 @@
-/.*\.instagram\.com/
-/.*\.cdninstagram\.com/
-/.*\.facebook\.com/
-/.*\.fbcdn\.net/
-/.*\.netflix\.com/
-/.*\.googleapis\.com/
-/.*\.youtube\.com/
+# WhatsApp
+@@||whatsapp.net^$important
+@@||whatsapp.com^$important
+
+# Instagram
+@@||cdninstagram.com^$important
+@@||instagram.com^$important
+@@||instagram.c10r.facebook.com^$important
+
+# Facebook
+@@||facebook.com^$important
+@@||fbcdn.net^$important
+
+# Netflix
+@@||netflix.com^$important
+
+# Youtube
+@@||googleapis.com^$important
+@@||youtube.com^$important
 @@||googleads.g.doubleclick.net^$important
-/.*\.registerdisney\.go\.com/
+
+# Disney
+@@||registerdisney.go.com^$important
 @@||disney.demdex.net^$important
 @@||disney.my.sentry.io^$important
-/.*\.edge\.bamgrid\.com/
-/.*\.disney\.com/
-/.*\.disneyplus\.com/
-/.*\.thewaltdisneycompany\.com/
-/.*\.disney-plus\.net/
+@@||edge.bamgrid.com^$important
+@@||disney.com^$important
+@@||disneyplus.com^$important
+@@||thewaltdisneycompany.com^$important
+@@||disney-plus.net^$important
+
+# Amazon
 @@||images-na.ssl-images-amazon.com^$important
 @@||c.media-amazon.com^$important
 @@||static.siege-amazon.com^$important
 @@||media.amazon.map.fastly.net^$important
-/.*\.media-amazon\.com/
-/.*\.amazon\.com/
-/.*\.amazonvideo\.com/
-/.*\.amazonaws\.com/
-/.*\.max\.com/
-/.*\.wbd-api\.arkoselabs\.com/
-/.*\.discomax\.com/
-/.*\.app-analytics-services\.com/
-/.*\.whatsapp\.com/
-@@||whatsapp.com^$important
-/.*\.ipinfo\.io/
-@@||ipinfo.io^$important
+@@||media-amazon.com^$important
+@@||amazon.com^$important
+@@||amazonvideo.com^$important
+@@||amazonaws.com^$important
 
+# Max
+@@||max.com^$important
+@@||wbd-api.arkoselabs.com^$important
+
+# Discomax
+@@||discomax.com^$important
+
+# Ipinfo
+@@||ipinfo.io^$important
