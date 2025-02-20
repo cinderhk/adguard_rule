@@ -28,6 +28,16 @@
 @@||disneyplus.com^$important
 @@||thewaltdisneycompany.com^$important
 @@||disney-plus.net^$important
+@@||cdn.registerdisney.go.com^$important
+@@||dssott.com^$important
+@@||cws.conviva.com^$important
+@@||disneyplus.bn5x.net^$important
+@@||disney-portal.my.onetrust.com^$important
+@@||bamgrid.com^$important
+@@||disneyplus.com.ssl.sc.omtrdc.net^$important
+@@||cws-sjc2.conviva.com^$important
+@@||cws-iad1.conviva.com^$important
+@@||vod-l3c-eu-north-2.media.dssott.com.c.footprint.net^$important
 
 # Amazon
 @@||images-na.ssl-images-amazon.com^$important
@@ -48,3 +58,103 @@
 
 # Ipinfo
 @@||ipinfo.io^$important
+
+# Google
+/.*\.google\.com/
+@@||googleapis.com^$important
+@@||gstatic.com^$important
+/.*\.googlevideo\.com/
+/.*\.gstatic\.com/
+
+# Github
+@@||github.com^$important
+@@||github.io^$important
+@@||raw.githubusercontent.com^$important
+
+# Mailbox.org
+@@||mailbox.org^$important
+
+# Apple
+@@||*.apple.com^$important
+@@||*.icloud.com^$important
+@@||*.icloud.com.cn^$important
+@@||*.apple.com.aksdns.net^$important
+@@||*.itunes-apple.com.akadns.net^$important
+@@||*.push-apple.com.akadns.net^$important
+@@||*.cdn-apple.com.w.kunlunca.com^$important
+@@||*.apple.com.w.alikunlun.com^$important
+@@||*.itunes.apple.com.w.alikunlun.com^$important
+@@||*.apple.map.fastly.net^$important
+@@||*.apple-dns.net^$important
+@@||*.icloud-content.com^$important
+@@||*.icloud-content.com.cn^$important
+
+# Paypal
+@@||paypal.com^$important
+@@||paypalobjects.com^$important
+
+# Snapchat
+@@||snapchat.com^$important
+
+# Shein
+@@||shein.com^$important
+
+# Quora
+@@||quora.com^$important
+@@||quoracdn.net^$important
+
+# Microsoft Outlook
+@@||office.com^$important
+@@||office365.com^$important
+@@||officeapps.live.com^$important
+@@||outlookmobile.com^$important
+@@||outlook.live.com^$important
+@@||microsoft.com^$important
+@@||officeclient.microsoft.com^$important
+@@||microsoftonline.com^$important
+
+# Chatgpt
+@@||openai.com^$important
+@@||chatgpt.com^$important
+
+# Temu
+@@||temu.com^$important
+
+# Telegram
+@@||telegram.org^$important
+@@||telegram.me^$important
+@@||telegram.dog^$important
+@@||telegram.com^$important
+@@||cdn-telegram.org^$important
+
+# Meteologix Business
+@@||business.meteologix.com^$important
+
+# The Pionneer App
+@@||piano.io^$important
+
+# Vidible Video Platform
+@@||img.vidible.tv^$important
+@@||cdn.vidible.tv^$important
+@@||delivery.vidible.tv^$important
+@@||videos.vidible.tv^$important
+
+# Spotify
+@@||open.spotify.com^$important
+@@||mobile-ap.spotify.com^$important
+@@||apresolve.spotify.com^$important
+@@||upgrade.scdn.com^$important
+@@||market.spotify.com^$important
+@@||spclient.wg.spotify.com^$important
+@@||ap.spotify.com^$important
+@@||audio-ake.spotify.com.edgesuite.net^$important
+@@||audio4-ak.spotify.com.edgesuite.net^$important
+
+# Sonos
+@@||sonos.com^$important
+
+# X
+@@||x.com^$important
+@@||twimg.com^$important
+@@||twitter.com^$important
+
