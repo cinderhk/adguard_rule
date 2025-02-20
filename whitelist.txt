@@ -158,3 +158,8 @@
 @@||twimg.com^$important
 @@||twitter.com^$important
 
+# tiktok
+@@||tiktok.com^$important
+@@||tiktokv.com^$important
+@@||tiktokcdn.com^$important
+@@||tiktokv.us^$important
